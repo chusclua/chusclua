@@ -1,14 +1,7 @@
 ### Hi there 👋, I'm Chus Clua
 Android developer enthusiastic about software development with the motivation to share, expand and refine my experience every day.
 
-<details>
-  <summary>GitHub Stats</summary>
-  <img align="left" alt="Chus's Github Stats" src="https://github-readme-stats.vercel.app/api?username=chusclua&count_private=true&show_icons=true&include_all_commits=true&theme=blue-green" />
-</details>
-
 <!--
-**chusclua/chusclua** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
