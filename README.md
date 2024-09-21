@@ -1,6 +1,8 @@
 ### Hi there 👋, I'm Chus Clua
 Android developer enthusiastic about software development with the motivation to share, expand and refine my experience every day.
 
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+
 <!--
 Here are some ideas to get you started:
 
